@@ -45,11 +45,11 @@ Através do CMD dentro da pasta raiz do projeto execute
 
     Instalar bundler
 
+    gem install bundler
+
  Depois digitar
 
    cucumber --init
-
-gem install bundler
 
     Instalar dependências
 
